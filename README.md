@@ -1,16 +1,10 @@
-# flutter_plate_reader_example
+# recognize_example
 
-A new Flutter project.
+This example uses the flutter_mobile_vision_2 library to read texts through the cell phone camera, which can be used in various solutions such as reading car license plates and other applications.
 
-## Getting Started
+The state is being managed by the GetX library.
 
-This project is a starting point for a Flutter application.
+## Used libraries
+- [flutter_mobile_vision_2](https://pub.dev/packages/flutter_mobile_vision_2)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you!
