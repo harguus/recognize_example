@@ -6,5 +6,6 @@ The state is being managed by the GetX library.
 
 ## Used libraries
 - [flutter_mobile_vision_2](https://pub.dev/packages/flutter_mobile_vision_2)
+- [getX](https://pub.dev/packages/get)
 
 Thank you!
